@@ -19,6 +19,9 @@
 # windows
 
 ## NVIDIA
+ * Install clean Driver
+ * Panel
+ * Inspector
 
 ## The finals settings
 
