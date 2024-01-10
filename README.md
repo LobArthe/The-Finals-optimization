@@ -33,7 +33,7 @@ https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df
 
 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=00F710&center=true&random=false&width=435&lines=NVIDIA)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1000&pause=5000&color=00D72B&center=true&multiline=true&random=false&width=435&lines=NVIDIA" alt="Typing SVG" /></a>
  * Install clean Driver
  * Panel
  * Inspector
