@@ -1,9 +1,8 @@
  <center>
 <h1 align="center">
 
-    
 
-   ![Samsung_Odyssey_monitor_imagery_and_animation_on_Behance_640x360](https://tenor.com/fr/view/the-finals-the-finals-game-embark-studios-qualified-winners-gif-15625091939834088392) </h1>
+![the-finals-gaming](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/dce8b27d-1c65-4580-b90b-19cf94d57eba)
 
 <body>
 
@@ -15,14 +14,13 @@
 
 
 
-# windows
 ## ![les-fenetres (2)](https://user-images.githubusercontent.com/119135536/224665433-e0706b00-7eb3-434f-a2ed-64aa25680cfe.png)  Custom Os
 
 
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/atlas-os/atlas&mode=light&style=horizontal)](https://github.com/atlas-os/atlas)
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=OR%20💖&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=OR%20💖&width=720&height=100)](https://github.com/Akshay090/svg-banners)
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://www.revi.cc/&mode=light&style=horizontal)](https://www.revi.cc/)
    
    ![ReviOS](https://img.shields.io/badge/Settings-Revision%20Tools-blue?style=flat-square):arrow_down:
