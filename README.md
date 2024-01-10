@@ -38,7 +38,7 @@ https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df
  * Panel
  * Inspector
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=38&pause=1000&color=F70000&center=true&random=false&width=435&lines=The+finals+settings" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1000&pause=5000&color=FF0000&center=true&multiline=true&random=false&width=435&lines=The+Finals" alt="Typing SVG" /></a>
 
 ## Amiit
 
