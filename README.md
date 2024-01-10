@@ -32,8 +32,24 @@ https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1000&pause=5000&color=00D72B&center=true&multiline=true&random=false&width=435&lines=NVIDIA" alt="Typing SVG" /></a>
- * Install clean Driver
- * Panel
+   <details>
+   <summary>Panel Nvidia</summary>
+
+   >
+   > ![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/d2191400-3508-4f5a-9c7d-e34524532482) 
+   > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/349e57a9-f69a-4f9e-a5b4-7ad001c7eba1)
+   > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/4ac3ae5b-a0c4-4a69-8b78-2886426d269f)
+   > | wait  | 
+   > | wait    | 
+   > | wait     | 
+   >
+   > Or, run this command in your terminal:
+   >
+   > ```sh
+   > curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | bash
+   > ```
+
+   </details>
  * Inspector
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&size=36&duration=1000&pause=5000&color=FF0000&center=true&multiline=true&random=false&width=435&lines=The+Finals" alt="Typing SVG" /></a>
