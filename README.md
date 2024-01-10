@@ -7,7 +7,7 @@
 
 <body>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=OR%20💖&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+
 <body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
