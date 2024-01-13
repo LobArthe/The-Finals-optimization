@@ -69,8 +69,12 @@ https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&size=36&duration=1000&pause=5000&color=FF0000&center=true&multiline=true&random=false&width=435&lines=The+Finals" alt="Typing SVG" /></a>
 
-## Amiit
+## ![ram](https://user-images.githubusercontent.com/119135536/224673270-ce31eab4-a47b-4e73-9e38-76b98ac256ae.png) Amitxv-TimerResolution (better than ISLC)
+   
 
+https://github.com/amitxv/TimerResolution
+ ![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/41296ba4-e63f-47be-8b83-80a2bd36ecc7)
+![image](https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/d960c87b-0815-48c9-84ba-bf8a0d08d977)
 ## 
 
 
