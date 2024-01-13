@@ -18,6 +18,8 @@
 
 
 > First, I use a custom windows, because it integrates absolutely everything (optimization, latency, performance, stability)
+         
+ https://atlasos.net/
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/atlas-os/atlas&mode=light&style=horizontal)](https://github.com/atlas-os/atlas)
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=OR%20💖&width=720&height=100)](https://github.com/Akshay090/svg-banners)
@@ -39,18 +41,31 @@ https://github.com/LobArthe/Apex-Settings-240HZ-2K/assets/119135536/b812c106-1df
    > ![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/d2191400-3508-4f5a-9c7d-e34524532482) 
    > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/349e57a9-f69a-4f9e-a5b4-7ad001c7eba1)
    > |![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/4ac3ae5b-a0c4-4a69-8b78-2886426d269f)
-   > | wait  | 
-   > | wait    | 
-   > | wait     | 
    >
-   > Or, run this command in your terminal:
-   >
-   > ```sh
-   > curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | bash
-   > ```
+   > 
+   > 
 
    </details>
- * Inspector
+
+<details>
+   <summary>Nvidia Inspector</summary>
+
+   >
+   > Download and extract on your desktop (télécharger et extraire sur votre bureau) 
+[Nvidia Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) 
+
+   First, download and (extract) [Base Profile.zip](https://github.com/LobArthe/The-Finals-optimization/files/13927826/Base.Profile.zip) and [The Finals.zip](https://github.com/LobArthe/The-Finals-optimization/files/13927827/The.Finals.zip)
+
+  Put only PROFILE BASE PROFILE IN PROFILE BASE! click 'Apply changes' ![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/966099d6-1628-4b83-b880-982eb629629c)
+
+
+   Put only PROFILE THE FINALS IN PROFILE THE FINALS! click 'Apply changes'![image](https://github.com/LobArthe/The-Finals-optimization/assets/119135536/2ed30841-7fbc-40c2-b2b9-fe8a3f66647f)
+
+   🚩To see if all is well, look a little further down, you'll see this (in bold), don't get the wrong profile!🚩
+   > 
+   Thanks you ! if you have problem , use 'contact me' section (A video is coming soon if you don't understand!)
+</details>
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&size=36&duration=1000&pause=5000&color=FF0000&center=true&multiline=true&random=false&width=435&lines=The+Finals" alt="Typing SVG" /></a>
 
